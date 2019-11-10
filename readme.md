@@ -15,7 +15,7 @@
 2. ~~Use the pre-generated table to implement a second way of finding recommendations for a user~~
 3. ~~You shall only use Euclidean distance as similarity measure~~
 4. ~~It shall be possible to select how to find recommendations from the client GUI (Item-Based or User-Based)~~
-### GUI Apperance & Execution Examples
+### GUI Appearance & Execution Examples
 > Note: While I am no designer by any means, this GUI could have been made prettier with more time. You said that appearance does not matter, and this fulfils all functional requirements so I deem it as "good enough", but no more than that.
 #### Large Dataset: Angela (Euclidean distance)
 ![Large Dataset: Angela (Euclidean distance)](https://i.gyazo.com/762f6e87fccd386472b4d3fe7999606a.png)
