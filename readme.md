@@ -4,9 +4,9 @@
 > You can verify that your application works by using the example dataset from the lecture
 2. ~~Use Euclidean distance as similarity measure~~
 3. Implement the system using a REST web service where:
-  3.1. ~~client sends a request to a server~~
-  3.2. ~~the server responds with json data~~
-  3.3. ~~the json data is decoded and presented in a client GUI~~
+    1. ~~client sends a request to a server~~
+    2. ~~the server responds with json data~~
+    3. ~~the json data is decoded and presented in a client GUI~~
 ### C-D
 1. ~~Implement the Pearson Correlation similarity measure~~
 2. ~~It shall be possible to select which measure to use from the client GUI~~
